@@ -1,0 +1,10 @@
+Bug report structure:
+Title
+Preconditions
+Steps
+Expected result
+Actual result
+Environment
+Priority
+Attachments
+Assigned to
