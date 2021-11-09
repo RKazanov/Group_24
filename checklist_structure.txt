@@ -1,0 +1,7 @@
+CheckList structure:
+Tested By
+Date
+Procedure 
+Expected result
+Pass/Fail
+Actual results/Comments
